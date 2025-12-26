@@ -78,7 +78,7 @@ a {
   color: white;
   text-decoration: none;
   font: 13px;
-  font-style: oblique;
+  font-family: 'Courier New', Courier, monospace;
 }
 .LOGO {
   position: absolute;
