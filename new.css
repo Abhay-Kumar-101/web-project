@@ -460,3 +460,26 @@ fadein animation {
   font-size: 32px;
   letter-spacing: 12px;
 }
+
+
+/*----------------------*/
+/*  SECTION 2 */
+
+
+.flex-y{
+  display: flex;
+  flex-direction: row;
+  font-family: 'Courier New', Courier, monospace;
+}
+.section2{
+  height:70rem;
+}
+.spart1{
+  display: grid;
+  gap:10rem;
+  margin:20rem;
+  padding: 10%;
+  justify-content: center;
+  align-items:center;
+ 
+}
